@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tatsv
-- 👀 I’m interested in laravel, php, mySQL, Cloud - GCP,Azure, AWS
+- 👀 I’m interested in CodeIgniter, PHP, mySQL, Cloud - GCP,Azure, AWS
 - 🌱 I’m currently learning javascript, docker, kubernetes
 - 💞️ I’m looking to collaborate on any php project.
 - 📫 How to reach me  tatsvdev@gmail.com || +254740628643
